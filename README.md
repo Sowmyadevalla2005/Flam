@@ -17,13 +17,13 @@ This project demonstrates how to use OpenCV with an Android application to captu
     - Declares and initializes `Mat` objects to store and process camera frames.
     - Implements adaptive thresholding using OpenCV's `Imgproc.adaptiveThreshold` to process camera frames when a checkbox is checked.
 
+
 ## Screenshots 
-
-
 ### Main Camera Interface
-![Main Interface](images/1000019055.jpg)
+<img src="images/1000019055.jpg" width="400" alt="Main Interface">
+
 ### Edge processing in Action
-![Out2](images/1000019053.jpg)
+<img src="images/1000019053.jpg" width="400" alt="Edge Processing">
 
 
 ## Setup Instructions
