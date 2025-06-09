@@ -21,10 +21,10 @@ This project demonstrates how to use OpenCV with an Android application to captu
 
 
 ### Main Camera Interface
-![Main Interface](images/main_interface.png)
+![Main Interface](images/1000019053.jpg)
 
 ### Edge processing in Action
-![Out2](images/demo.gif)
+![Out2](images/1000019055.jpg)
 ![Out3]()
 ![Out4]()
 
