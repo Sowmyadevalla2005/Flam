@@ -28,7 +28,7 @@ To build and run this project, you will need Android Studio and the Android SDK.
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-repo/Arm64OpenCVCamera.git
+    https://github.com/Sowmyadevalla2005/Flam.git
     cd Arm64OpenCVCamera
     ```
 
