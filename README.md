@@ -21,14 +21,14 @@ This project demonstrates how to use OpenCV with an Android application to captu
 ## Screenshots 
 ### Main Camera Interface
 <div align="center">
-  <img src="images/1000019055.jpg" width="400" alt="Main Interface">
-  <img src="images/1000019056.jpg " width="400" alt="Another Feature">
+  <img src="images/1000019055.jpg" width="300" alt="Main Interface">
+  <img src="images/1000019056.jpg " width="300" alt="Another Feature">
 </div>
 
 ### Edge processing in Action
 <div align="center">
-  <img src="images/1000019053.jpg" width="400" alt="Edge Processing">
-  <img src="images/1000019057.jpg" width="400" alt="Fourth Feature">
+  <img src="images/1000019053.jpg" width="300" alt="Edge Processing">
+  <img src="images/1000019057.jpg" width="300" alt="Fourth Feature">
 </div>
 
 
